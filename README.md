@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickfan
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate with Data Scientists, Content creators, and developers
 - 📫 How to reach me nickfan AT kuma2code dot com
 
