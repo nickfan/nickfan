@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickfan
-- 👀 I’m interested in devops
+- 👀 I’m interested in devops and fullstack development.
 - 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate with Data Scientists, Content creators, and developers
 
